@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkyuheiono_com=self.webpackChunkyuheiono_com||[]).push([[256],{8336:function(t,e,n){n.r(e);n(2784);var a=n(8671),o=n(8165);e.default=t=>{let{data:{site:{siteMetadata:{siteUrl:e}}}}=t;return(0,o.tZ)(a.q,null,(0,o.tZ)("meta",{name:"robots",content:"noindex"}),(0,o.tZ)("meta",{"http-equiv":"Refresh",content:"0; URL="+e}))}}}]);
+//# sourceMappingURL=component---src-pages-404-jsx-75c5be2671a141719708.js.map
